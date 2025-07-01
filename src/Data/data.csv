@@ -1,0 +1,106 @@
+id,chart_type,mean_threshold,consensus_threshold,course,file_name
+0,diverging stacked bar chart,low,low,A,course_A_diverging-stacked-bar-chart.png
+1,heatmap,low,low,A,course_A_heatmap.png
+2,pie chart,low,low,A,course_A_pie-chart.png
+3,grouped bar chart,low,low,A,course_A_grouped-bar-chart.png
+4,box plot,low,low,A,course_A_box-plot.png
+5,waffle chart,low,low,A,course_A_waffle-overall.png
+6,waffle chart,low,low,A,course_A_waffle-content-comm.png
+7,waffle chart,high,high,A,course_A_waffle-availability.png
+8,waffle chart,low,low,A,course_A_waffle-grading.png
+9,waffle chart,low,low,A,course_A_waffle-prompt.png
+10,diverging stacked bar chart,low,low,B,course_B_diverging-stacked-bar-chart.png
+11,heatmap,low,low,B,course_B_heatmap.png
+12,pie chart,low,low,B,course_B_pie-chart.png
+13,grouped bar chart,low,low,B,course_B_grouped-bar-chart.png
+14,box plot,low,low,B,course_B_box-plot.png
+15,waffle chart,low,low,B,course_B_waffle-overall.png
+16,waffle chart,low,low,B,course_B_waffle-content-comm.png
+17,waffle chart,high,high,B,course_B_waffle-availability.png
+18,waffle chart,low,low,B,course_B_waffle-grading.png
+19,waffle chart,low,low,B,course_B_waffle-prompt.png
+20,diverging stacked bar chart,high,high,C,course_C_diverging-stacked-bar-chart.png
+21,heatmap,high,high,C,course_C_heatmap.png
+22,pie chart,high,high,C,course_C_pie-chart.png
+23,grouped bar chart,high,high,C,course_C_grouped-bar-chart.png
+24,box plot,high,high,C,course_C_box-plot.png
+25,waffle chart,high,high,C,course_C_waffle-overall.png
+26,waffle chart,high,high,C,course_C_waffle-content-comm.png
+27,waffle chart,high,high,C,course_C_waffle-availability.png
+28,waffle chart,high,high,C,course_C_waffle-grading.png
+29,waffle chart,high,high,C,course_C_waffle-prompt.png
+30,diverging stacked bar chart,low,high,D,course_D_diverging-stacked-bar-chart.png
+31,heatmap,low,high,D,course_D_heatmap.png
+32,pie chart,low,high,D,course_D_pie-chart.png
+33,grouped bar chart,low,high,D,course_D_grouped-bar-chart.png
+34,box plot,low,high,D,course_D_box-plot.png
+35,waffle chart,low,high,D,course_D_waffle-overall.png
+36,waffle chart,low,high,D,course_D_waffle-content-comm.png
+37,waffle chart,low,high,D,course_D_waffle-availability.png
+38,waffle chart,low,high,D,course_D_waffle-grading.png
+39,waffle chart,low,high,D,course_D_waffle-prompt.png
+40,diverging stacked bar chart,low,low,E,course_E_diverging-stacked-bar-chart.png
+41,heatmap,low,low,E,course_E_heatmap.png
+42,pie chart,low,low,E,course_E_pie-chart.png
+43,grouped bar chart,low,low,E,course_E_grouped-bar-chart.png
+44,box plot,low,low,E,course_E_box-plot.png
+45,waffle chart,low,low,E,course_E_waffle-overall.png
+46,waffle chart,low,high,E,course_E_waffle-content-comm.png
+47,waffle chart,low,low,E,course_E_waffle-availability.png
+48,waffle chart,low,low,E,course_E_waffle-grading.png
+49,waffle chart,low,high,E,course_E_waffle-prompt.png
+50,diverging stacked bar chart,high,high,F,course_F_diverging-stacked-bar-chart.png
+51,heatmap,high,high,F,course_F_heatmap.png
+52,pie chart,high,high,F,course_F_pie-chart.png
+53,grouped bar chart,high,high,F,course_F_grouped-bar-chart.png
+54,box plot,high,high,F,course_F_box-plot.png
+55,waffle chart,high,high,F,course_F_waffle-overall.png
+56,waffle chart,high,high,F,course_F_waffle-content-comm.png
+57,waffle chart,high,high,F,course_F_waffle-availability.png
+58,waffle chart,high,high,F,course_F_waffle-grading.png
+59,waffle chart,high,high,F,course_F_waffle-prompt.png
+60,diverging stacked bar chart,high,high,G,course_G_diverging-stacked-bar-chart.png
+61,heatmap,high,high,G,course_G_heatmap.png
+62,pie chart,high,high,G,course_G_pie-chart.png
+63,grouped bar chart,high,high,G,course_G_grouped-bar-chart.png
+64,box plot,high,high,G,course_G_box-plot.png
+65,waffle chart,high,high,G,course_G_waffle-overall.png
+66,waffle chart,low,high,G,course_G_waffle-content-comm.png
+67,waffle chart,low,low,G,course_G_waffle-availability.png
+68,waffle chart,high,high,G,course_G_waffle-grading.png
+69,waffle chart,high,high,G,course_G_waffle-prompt.png
+70,diverging stacked bar chart,low,low,H,course_H_diverging-stacked-bar-chart.png
+71,heatmap,low,low,H,course_H_heatmap.png
+72,pie chart,low,low,H,course_H_pie-chart.png
+73,grouped bar chart,low,low,H,course_H_grouped-bar-chart.png
+74,box plot,low,low,H,course_H_box-plot.png
+75,waffle chart,low,low,H,course_H_waffle-overall.png
+76,waffle chart,high,high,H,course_H_waffle-content-comm.png
+77,waffle chart,high,low,H,course_H_waffle-availability.png
+78,waffle chart,low,low,H,course_H_waffle-grading.png
+79,waffle chart,low,low,H,course_H_waffle-prompt.png
+80,diverging stacked bar chart,low,low,I,course_I_diverging-stacked-bar-chart.png
+81,heatmap,low,low,I,course_I_heatmap.png
+82,pie chart,low,low,I,course_I_pie-chart.png
+83,grouped bar chart,low,low,I,course_I_grouped-bar-chart.png
+84,box plot,low,low,I,course_I_box-plot.png
+85,waffle chart,low,low,I,course_I_waffle-overall.png
+86,waffle chart,low,low,I,course_I_waffle-content-comm.png
+87,waffle chart,low,low,I,course_I_waffle-availability.png
+88,waffle chart,high,low,I,course_I_waffle-grading.png
+89,waffle chart,low,low,I,course_I_waffle-prompt.png
+90,diverging stacked bar chart,low,low,J,course_J_diverging-stacked-bar-chart.png
+91,heatmap,low,low,J,course_J_heatmap.png
+92,pie chart,low,low,J,course_J_pie-chart.png
+93,grouped bar chart,low,low,J,course_J_grouped-bar-chart.png
+94,box plot,low,low,J,course_J_box-plot.png
+95,waffle chart,low,high,J,course_J_waffle-overall.png
+96,waffle chart,low,high,J,course_J_waffle-content-comm.png
+97,waffle chart,low,low,J,course_J_waffle-availability.png
+98,waffle chart,low,low,J,course_J_waffle-grading.png
+99,waffle chart,low,low,J,course_J_waffle-prompt.png
+100,scatter plot,low,high,all,Content-Communication.png
+101,scatter plot,high,high,all,Availability-After-Class.png
+102,scatter plot,low,low,all,Grading-Fairness.png
+103,scatter plot,low,high,all,Returning-Work.png
+104,scatter plot,low,high,all,Overall-Teaching-Effectiveness.png
